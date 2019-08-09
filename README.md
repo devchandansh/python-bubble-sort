@@ -7,6 +7,7 @@ How many numbers you want to add.?
 5
 
 Enter the Numbers::
+
 9
 
 5
