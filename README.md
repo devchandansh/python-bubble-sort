@@ -8,10 +8,15 @@ How many numbers you want to add.?
 
 Enter the Numbers::
 9
+
 5
+
 2
+
 6
+
 3
+
 --------------------------
 You have Entered:  ['9', '5', '2', '6', '3']
 
